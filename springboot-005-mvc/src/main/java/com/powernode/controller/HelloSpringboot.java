@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HelloSpringboot {
     @RequestMapping("/hello")
-    @ResponseBody
+    @ResponseBody//用于将Java对象转换为JSON或XML等格式的响应体，并直接写入HTTP响应
     public String helloSpringBoot(){
         return "欢迎使用SpringBoot框架";
     }
