@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-006-port-context-path" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-001-pre/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-002-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-005-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-006-port-context-path/pom.xml" />
       </list>
     </option>
   </component>
