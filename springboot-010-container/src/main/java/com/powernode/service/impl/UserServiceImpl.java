@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
  * @date 2024/6/19
  * @description TODO
  */
-@Service("userService")
+@Service
 public class UserServiceImpl implements UserService {
     @Override
     public void sayHello(String name) {

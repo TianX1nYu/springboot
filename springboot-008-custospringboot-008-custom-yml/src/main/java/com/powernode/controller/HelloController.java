@@ -33,6 +33,7 @@ public class HelloController {
     @RequestMapping("/data")
     @ResponseBody
     public String queryData(){
+        System.out.println("=============================");
         return name+",port="+port+",site="+site+",context-path="+contextPath;
     }
 
