@@ -1,6 +1,6 @@
 package com.powernode.config;
 
-import com.powernode.com.powernode.web.LoginInterceptor;
+import com.powernode.web.LoginInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;

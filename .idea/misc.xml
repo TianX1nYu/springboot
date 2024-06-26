@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/springboot-006-port-context-path" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-014-filter" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -11,6 +12,14 @@
         <option value="$PROJECT_DIR$/springboot-002-first/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-005-mvc/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-006-port-context-path/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-007-multi-enveriment/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-008-custospringboot-008-custom-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-010-container/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-012-intercetor/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-014-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-properties-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-017-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-019-transactional/pom.xml" />
       </list>
     </option>
   </component>

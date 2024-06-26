@@ -6,10 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-012-intercetor" />
         <module name="spring-001-pre" />
-        <module name="springboot-006-port-context-path" />
-        <module name="springboot-002-first" />
+        <module name="springboot-017-mapper" />
         <module name="springboot-005-mvc" />
+        <module name="springboot-007-multi-enveriment" />
+        <module name="springboot-019-transactional" />
+        <module name="springboot-010-container" />
+        <module name="springboot-006-port-context-path" />
+        <module name="springboot-properties-yml" />
+        <module name="springboot-002-first" />
+        <module name="springboot-008-custospringboot-008-custom-yml" />
+        <module name="springboot-014-filter" />
       </profile>
     </annotationProcessing>
   </component>
@@ -18,6 +26,14 @@
       <module name="springboot-002-first" options="-parameters" />
       <module name="springboot-005-mvc" options="-parameters" />
       <module name="springboot-006-port-context-path" options="-parameters" />
+      <module name="springboot-007-multi-enveriment" options="-parameters" />
+      <module name="springboot-008-custospringboot-008-custom-yml" options="-parameters" />
+      <module name="springboot-010-container" options="-parameters" />
+      <module name="springboot-012-intercetor" options="-parameters" />
+      <module name="springboot-014-filter" options="-parameters" />
+      <module name="springboot-017-mapper" options="-parameters" />
+      <module name="springboot-019-transactional" options="-parameters" />
+      <module name="springboot-properties-yml" options="-parameters" />
     </option>
   </component>
 </project>

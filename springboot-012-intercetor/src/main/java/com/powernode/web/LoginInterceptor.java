@@ -1,4 +1,4 @@
-package com.powernode.com.powernode.web;
+package com.powernode.web;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
